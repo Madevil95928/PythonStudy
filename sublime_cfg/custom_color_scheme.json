@@ -1,23 +1,18 @@
 {
-	"variables":
-	{
-		"pink": "hsl(330, 100%, 20%)",
-		"pink1": "hsl(330, 100%, 33%)",
-		"blue1": "hsl(190, 100%, 60%)",
-	},
-	"globals":
-	{
-		"caret_style": "smooth",
-		"selection": "var(pink)",
-		"selection_border": "var(pink1)",
-		"caret": "var(blue1)",
-		"brackets_options": "markup bold",
-		"brackets_foreground": "var(red)",
-		"brackets_contents_options": "markup bold",
-		"brackets_contents_foreground": "var(red)"
-	},
-	"rules":
-	[
-		
-	]
+    "variables": {
+        "pink": "hsl(330, 100%, 20%)", 
+        "pink1": "hsl(330, 100%, 33%)", 
+        "blue1": "hsl(190, 100%, 60%)"
+    }, 
+    "globals": {
+        "caret_style": "smooth", 
+        "selection": "var(pink)", 
+        "selection_border": "var(pink1)", 
+        "caret": "var(blue1)", 
+        "brackets_options": "markup bold", 
+        "brackets_foreground": "var(red)", 
+        "brackets_contents_options": "markup bold", 
+        "brackets_contents_foreground": "var(red)"
+    }, 
+    "rules": []
 }
